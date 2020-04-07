@@ -40,5 +40,5 @@ Feel free to have a look at the server of this application: [Curious Server](htt
 ## Developers
 * Andre Lellis Adnet Coutinho [LinkedIn](https://www.linkedin.com/in/andre-lellis-640495bb/) | [GitHub](https://github.com/andrelellis)
 * Fábio Tiago Carneiro Videira [LinkedIn](https://www.linkedin.com/in/fabio-videira/) | [GitHub](https://github.com/Videiraft)
-* Florian Jost [LinkedIn](https://www.linkedin.com/in/fjost/) | [GitHub](https://github.com/steelersbcn)
+* Florian Jost [LinkedIn](https://www.linkedin.com/in/fjost/) | [GitHub](https://github.com/JoFlo07)
 * Roberto Antunes [LinkedIn](https://www.linkedin.com/in/robm-antunes/) | [GitHub](https://github.com/RobAntunes)
